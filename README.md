@@ -90,12 +90,12 @@ Agglomerative Clustering with **3 clusters** provides the best segmentation and 
 
 ## 📂 Project Structure
 
-📦 customer-segmentation/
-├── 📁 data/
-├── 📁 notebooks/
-├── 📁 models/
-├── 📄 README.md
-├── 📄 requirements.txt
-└── 📄 clustering.ipynb
+📦 customer-segmentation/n
+├── 📁 data/n
+├── 📁 notebooks/n
+├── 📁 models/n
+├── 📄 README.md/n
+├── 📄 requirements.txt/n
+└── 📄 clustering.ipynb/n
 
 ---
