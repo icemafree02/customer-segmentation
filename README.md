@@ -87,15 +87,3 @@ Used three clustering algorithms:
 Agglomerative Clustering with **3 clusters** provides the best segmentation and interpretability. Each cluster presents a unique customer profile, enabling strategic marketing and service personalization.
 
 ---
-
-## 📂 Project Structure
-
-📦 customer-segmentation/n
-├── 📁 data/n
-├── 📁 notebooks/n
-├── 📁 models/n
-├── 📄 README.md/n
-├── 📄 requirements.txt/n
-└── 📄 clustering.ipynb/n
-
----
